@@ -37,3 +37,11 @@ Explorar dados da indústria de jogos eletrônicos, identificando padrões de co
 Veja o dashboard interativo: https://drive.google.com/drive/folders/1KI8PoDqKi5SN7rq_S-NPjL39Db4pPGSf?usp=sharing
 
 Leia o PDF completo com análises e queries: [relatório do projeto jogos.pdf](https://github.com/user-attachments/files/20506744/relatorio.do.projeto.jogos.pdf)
+
+---
+
+## 🔗 Página Inicial do Portfólio
+
+🚀 [Acesse o Portfólio Completo no GitHub](https://github.com/JoaoVicenteRubia/Portfolio)
+
+
