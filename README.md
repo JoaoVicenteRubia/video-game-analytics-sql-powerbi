@@ -1,4 +1,4 @@
-# 🎮 Análise de Video Games com SQL e Power BI
+# 🎮 Análise de Vendas com SQL e Power BI
 
 ## 🎯 Objetivo
 Explorar dados da indústria de jogos eletrônicos, identificando padrões de consumo, preferências por gênero e comportamento dos principais mercados globais.
